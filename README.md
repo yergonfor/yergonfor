@@ -20,20 +20,20 @@
 </p>
 
 <h2>
-  <a href="https://github.com/yergonfor#--1"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=4493F8&vCenter=true&repeat=false&width=435&height=35&lines=featured+repos"></a>
+  <a href="https://github.com/yergonfor#---1"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=4493F8&vCenter=true&repeat=false&width=435&height=35&lines=featured+repos"></a>
 </h2>
 
   <a href="https://github.com/yergonfor/education_and_projects"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=400&pause=450&color=F0F6FC&vCenter=true&multiline=true&repeat=false&width=435&height=35&lines=education_and_projects"></a>
 </p>
 
 <h3>
-  <a href="https://github.com/yergonfor#--2"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=4493F8&vCenter=true&repeat=false&width=435&height=35&lines=technologies"></a>
+  <a href="https://github.com/yergonfor#---2"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=4493F8&vCenter=true&repeat=false&width=435&height=35&lines=technologies"></a>
 </h3>
 
-<a href="https://github.com/yergonfor#--2"><img src="https://skillicons.dev/icons?i=aws,arch,arduino,bash,css,codepen,discord,docker,gcp,git,github,gmail,html,java,js,kali,linux,lua,mint,mysql,nginx,nix,powershell,python,qt,raspberrypi,ubuntu,vscode,windows,wordpress"></a>
+<a href="https://github.com/yergonfor#---2"><img src="https://skillicons.dev/icons?i=aws,arch,arduino,bash,css,codepen,discord,docker,gcp,git,github,gmail,html,java,js,kali,linux,lua,mint,mysql,nginx,nix,powershell,python,qt,raspberrypi,ubuntu,vscode,windows,wordpress"></a>
 
 <h4>
-  <a href="https://github.com/yergonfor#--3"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=4493F8&vCenter=true&repeat=false&width=435&height=35&lines=contributions"></a>
+  <a href="https://github.com/yergonfor#---3"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=4493F8&vCenter=true&repeat=false&width=435&height=35&lines=contributions"></a>
 </h4>
 
-<a href="https://github.com/yergonfor#--3"><img src="https://raw.githubusercontent.com/yergonfor/yergonfor/output/snake.svg"></a>
+<a href="https://github.com/yergonfor#---3"><img src="https://raw.githubusercontent.com/yergonfor/yergonfor/output/snake.svg"></a>
