@@ -12,28 +12,28 @@
 <a href="https://github.com/yergonfor?tab=repositories"><img src="https://badges.pufler.dev/repos/yergonfor?style=flat&color=black&logo=github" width="9%"></a>
 
 <h1>
-  <a href="https://github.com/yergonfor/readme.md#--"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=4493F8&vCenter=true&repeat=false&width=435&height=35&lines=about+me"></a>
+  <a href="https://github.com/yergonfor#--"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=4493F8&vCenter=true&repeat=false&width=435&height=35&lines=about+me"></a>
 </h1>
 
 <p>
-  <a href="https://github.com/yergonfor/readme.md#--"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=400&pause=450&color=F0F6FC&vCenter=true&multiline=true&repeat=false&width=1045&height=135&lines=I'm+Yeray%2C+a+tech+enthusiast+bridging+systems+infrastructure+and+software+development.+After+;completing+my+degree+in+Microcomputer+Systems+and+Networks+at+CIPFP+Luis+Su%C3%B1er+Sanchis%2C+I+am+;currently+pursuing+Web+Application+Development+at+IES+Jaume+II+el+Just+as+a+first-year+;student.+My+goal+is+to+build+fast%2C+scalable+web+applications+backed+by+solid+network+;and+systems+fundamentals."></a>
+  <a href="https://github.com/yergonfor#--"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=400&pause=450&color=F0F6FC&vCenter=true&multiline=true&repeat=false&width=1045&height=135&lines=I'm+Yeray%2C+a+tech+enthusiast+bridging+systems+infrastructure+and+software+development.+After+;completing+my+degree+in+Microcomputer+Systems+and+Networks+at+CIPFP+Luis+Su%C3%B1er+Sanchis%2C+I+am+;currently+pursuing+Web+Application+Development+at+IES+Jaume+II+el+Just+as+a+first-year+;student.+My+goal+is+to+build+fast%2C+scalable+web+applications+backed+by+solid+network+;and+systems+fundamentals."></a>
 </p>
 
 <h2>
-  <a href="https://github.com/yergonfor/readme.md#--1"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=4493F8&vCenter=true&repeat=false&width=435&height=35&lines=featured+repos"></a>
+  <a href="https://github.com/yergonfor#--1"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=4493F8&vCenter=true&repeat=false&width=435&height=35&lines=featured+repos"></a>
 </h2>
 
   <a href="https://github.com/yergonfor/education_and_projects"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=400&pause=450&color=F0F6FC&vCenter=true&multiline=true&repeat=false&width=435&height=35&lines=education_and_projects"></a>
 </p>
 
 <h3>
-  <a href="https://github.com/yergonfor/readme.md#--2"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=4493F8&vCenter=true&repeat=false&width=435&height=35&lines=technologies"></a>
+  <a href="https://github.com/yergonfor#--2"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=4493F8&vCenter=true&repeat=false&width=435&height=35&lines=technologies"></a>
 </h3>
 
-<a href="https://github.com/yergonfor/readme.md#--2"><img src="https://skillicons.dev/icons?i=aws,arch,arduino,bash,css,codepen,discord,docker,gcp,git,github,gmail,html,java,js,kali,linux,lua,mint,mysql,nginx,nix,powershell,python,qt,raspberrypi,ubuntu,vscode,windows,wordpress"></a>
+<a href="https://github.com/yergonfor#--2"><img src="https://skillicons.dev/icons?i=aws,arch,arduino,bash,css,codepen,discord,docker,gcp,git,github,gmail,html,java,js,kali,linux,lua,mint,mysql,nginx,nix,powershell,python,qt,raspberrypi,ubuntu,vscode,windows,wordpress"></a>
 
 <h4>
-  <a href="https://github.com/yergonfor/readme.md#--3"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=4493F8&vCenter=true&repeat=false&width=435&height=35&lines=contributions"></a>
+  <a href="https://github.com/yergonfor#--3"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=4493F8&vCenter=true&repeat=false&width=435&height=35&lines=contributions"></a>
 </h4>
 
-<a href="https://github.com/yergonfor/readme.md#--3"><img src="https://raw.githubusercontent.com/yergonfor/yergonfor/output/snake.svg"></a>
+<a href="https://github.com/yergonfor#--3"><img src="https://raw.githubusercontent.com/yergonfor/yergonfor/output/snake.svg"></a>
